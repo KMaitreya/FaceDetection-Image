@@ -3,7 +3,9 @@ This is a face detection project. In this project face/s are detected from an im
 Detected face is shown using a green square around the face.
 
 Input->image(path), haar_cascade file
-Ouput->image with face/s detected
+
+Output->image with face/s detected
+
 (The input and output files are included in the repository.)
 
 Libraries utilized->opencv(cv2) and matplotlib
