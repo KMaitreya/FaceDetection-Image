@@ -1,7 +1,7 @@
 # Face Detection
 This is a face detection project from an image passed in as the input, images with multiple faces are also allowed to eb passed in as the input but in that case the accuracy of the algoritm decreases and errors may appear. Detected face is shown using a green square around the face.
 
-Input - image, haarcascade file
+Input - image, haar_cascade file
 
 Ouput - image with face/s detected
 
