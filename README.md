@@ -1,4 +1,4 @@
-# Face Detection
+# Face Detection(on an image)
 This is a face detection project. In this project face/s are detected from an image passed in as the input, images with multiple faces are also allowed to be passed in as the input. 
 Detected face is shown using a green square around the face.
 
