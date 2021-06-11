@@ -8,7 +8,7 @@ Output->image with face/s detected
 
 (The input and output files are included in the repository.)
 
-Libraries utilized->opencv(cv2) and matplotlib
+Libraries used->opencv(cv2) and matplotlib
 
 The CascadeClassifier() function from the opencv library has been used to help us detect the face/s in the given image.
 
